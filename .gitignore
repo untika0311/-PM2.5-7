@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+private-cache/
+tmp-edge*/
+public/
+node_modules/
+release/
+*.zip
+podfoon-rooms.json
+air-history.json
+air-station*.json
+air4thai-latest.json

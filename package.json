@@ -1,0 +1,8 @@
+{
+  "name": "than-akat-region7",
+  "private": true,
+  "type": "module",
+  "scripts": {"test":"node --test system/test.mjs","build":"node system/build.mjs","render":"node system/render.mjs","send":"node system/send.mjs"},
+  "engines": {"node":">=22"},
+  "dependencies": {"playwright":"1.62.1"}
+}
