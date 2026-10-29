@@ -5,8 +5,8 @@ $cache = Join-Path $root 'private-cache'
 New-Item -ItemType Directory -Force -Path $cache | Out-Null
 function Download-Json([string[]]$Urls, [string]$Name) {
   $failures = @()
-  $curlTool = Get-Command curl -CommandType Application -ErrorAction SilentlyContinue
-  if (-not $curlTool) { $curlTool = Get-Command curl.exe -CommandType Application -ErrorAction SilentlyContinue }
+  $curlTool = Get-Command curl -CommandType Application -ErrorAction SilentlyContinue | Select-Object -First 1
+  if (-not $curlTool) { $curlTool = Get-Command curl.exe -CommandType Application -ErrorAction SilentlyContinue | Select-Object -First 1 }
   foreach ($candidate in $Urls) {
     $sourceHost = ([uri]$candidate).Host
     Write-Output "Downloading $Name from $sourceHost ..."
