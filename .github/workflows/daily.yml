@@ -17,14 +17,19 @@ concurrency:
   cancel-in-progress: false
 jobs:
   report:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - name: Load prepared report system
+        run: |
+          test -f than-akat-system.zip
+          test -f cleanrooms-weekly.json
+          unzip -o than-akat-system.zip
+      - uses: actions/setup-node@v5
         with:
           node-version: '22'
       - name: Preserve published report archives
@@ -34,23 +39,24 @@ jobs:
           if git fetch origin gh-pages:refs/remotes/origin/gh-pages; then
             git archive origin/gh-pages | tar -x -C public
           fi
-      - name: Install renderer and Thai font
+      - name: Install renderer (RSU fonts are embedded)
         run: |
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
-          sudo apt-get update -qq
-          sudo apt-get install -y fonts-noto-core
       - name: Tests
-        run: node --test system/test.mjs
-      - name: Download public sources
+        run: npm test
+      - name: Download Air4Thai (cleanrooms use weekly register)
         shell: pwsh
         run: |
           $date = [TimeZoneInfo]::ConvertTimeBySystemTimeZoneId([DateTime]::UtcNow,'Asia/Bangkok').ToString('yyyy-MM-dd',[cultureinfo]::InvariantCulture)
-          ./system/fetch.ps1 -Date $date
+          ./system/fetch.ps1 -Date $date -AirOnly
       - name: Build and render report
         run: |
           node system/build.mjs
           node system/render.mjs
+      - name: Report metadata
+        run: |
+          node --input-type=module -e 'import fs from "node:fs"; const r=JSON.parse(fs.readFileSync("public/report.json","utf8"));fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,"Report: "+r.date+" | issue "+r.publication.label+"\n\nCleanroom register updated: "+r.rooms.sourceDate+"; valid records today: "+r.rooms.total.rooms+". No cleanroom API request was made by this daily job.\n");'
       - name: Save public archive branch
         shell: bash
         run: |
