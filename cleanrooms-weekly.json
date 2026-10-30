@@ -1,0 +1,2220 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://app.anamai.moph.go.th/podfoon/api/cleanroom/roomlists",
+  "asOf": "2026-10-30",
+  "fetchedAt": "2026-10-30T07:34:45.219Z",
+  "refreshSchedule": "Monday; temporary manual upload",
+  "qualifyingAtUpdate": 221,
+  "rows": [
+    {
+      "SnapshotRow": 1,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "แกดำ",
+      "Subdistrict": "แกดำ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-28"
+    },
+    {
+      "SnapshotRow": 2,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ยางตลาด",
+      "Subdistrict": "ยางตลาด",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-21"
+    },
+    {
+      "SnapshotRow": 3,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เชียงขวัญ",
+      "Subdistrict": "พระธาตุ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 4,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "แกดำ",
+      "Subdistrict": "แกดำ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-31"
+    },
+    {
+      "SnapshotRow": 5,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 6,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แก่งเลิงจาน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-06-23"
+    },
+    {
+      "SnapshotRow": 7,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-12"
+    },
+    {
+      "SnapshotRow": 8,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "แกดำ",
+      "Subdistrict": "โนนภิบาล",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-31"
+    },
+    {
+      "SnapshotRow": 9,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ชื่นชม",
+      "Subdistrict": "ชื่นชม",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-27"
+    },
+    {
+      "SnapshotRow": 10,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "หนองฮี",
+      "Subdistrict": "หนองฮี",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 11,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ยางตลาด",
+      "Subdistrict": "ยางตลาด",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-06"
+    },
+    {
+      "SnapshotRow": 12,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 13,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ทุ่งเขาหลวง",
+      "Subdistrict": "ทุ่งเขาหลวง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 14,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "สหัสขันธ์",
+      "Subdistrict": "โนนบุรี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-07"
+    },
+    {
+      "SnapshotRow": 15,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "งัวบา",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 16,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-21"
+    },
+    {
+      "SnapshotRow": 17,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ดอนจาน",
+      "Subdistrict": "สะอาดไชยศรี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-16"
+    },
+    {
+      "SnapshotRow": 18,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-06-06"
+    },
+    {
+      "SnapshotRow": 19,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 20,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 21,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-14"
+    },
+    {
+      "SnapshotRow": 22,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 23,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 24,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 25,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "หนองแสง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 26,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ฆ้องชัย",
+      "Subdistrict": "ฆ้องชัยพัฒนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-02"
+    },
+    {
+      "SnapshotRow": 27,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เชียงยืน",
+      "Subdistrict": "เชียงยืน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-28"
+    },
+    {
+      "SnapshotRow": 28,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-20"
+    },
+    {
+      "SnapshotRow": 29,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "นาเชือก",
+      "Subdistrict": "นาเชือก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 30,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 31,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-08"
+    },
+    {
+      "SnapshotRow": 32,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "หนองสิม",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-21"
+    },
+    {
+      "SnapshotRow": 33,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 34,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 35,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 36,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ศิลา",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-19"
+    },
+    {
+      "SnapshotRow": 37,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-18"
+    },
+    {
+      "SnapshotRow": 38,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 39,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพธิ์ชัย",
+      "Subdistrict": "ขามเปี้ย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 40,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-20"
+    },
+    {
+      "SnapshotRow": 41,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-06"
+    },
+    {
+      "SnapshotRow": 42,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-07"
+    },
+    {
+      "SnapshotRow": 43,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "กุดน้ำใส",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 44,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 45,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "จังหาร",
+      "Subdistrict": "จังหาร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-05"
+    },
+    {
+      "SnapshotRow": 46,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "นาดูน",
+      "Subdistrict": "นาดูน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-06"
+    },
+    {
+      "SnapshotRow": 47,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "สหัสขันธ์",
+      "Subdistrict": "โนนบุรี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-07"
+    },
+    {
+      "SnapshotRow": 48,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 49,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "หนองทัพไทย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 50,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ยางสีสุราช",
+      "Subdistrict": "ยางสีสุราช",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-22"
+    },
+    {
+      "SnapshotRow": 51,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ปทุมรัตต์",
+      "Subdistrict": "บัวแดง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 52,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เชียงยืน",
+      "Subdistrict": "โพนทอง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-24"
+    },
+    {
+      "SnapshotRow": 53,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "โกสุมพิสัย",
+      "Subdistrict": "หัวขวาง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-10"
+    },
+    {
+      "SnapshotRow": 54,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เชียงยืน",
+      "Subdistrict": "เชียงยืน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-16"
+    },
+    {
+      "SnapshotRow": 55,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กุดรัง",
+      "Subdistrict": "กุดรัง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-28"
+    },
+    {
+      "SnapshotRow": 56,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-19"
+    },
+    {
+      "SnapshotRow": 57,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-17"
+    },
+    {
+      "SnapshotRow": 58,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "เมืองเก่า",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-21"
+    },
+    {
+      "SnapshotRow": 59,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 60,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 61,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "จตุรพักตรพิมาน",
+      "Subdistrict": "หัวช้าง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 62,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-18"
+    },
+    {
+      "SnapshotRow": 63,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 64,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 65,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 66,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 67,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-04"
+    },
+    {
+      "SnapshotRow": 68,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "นามน",
+      "Subdistrict": "นามน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-01"
+    },
+    {
+      "SnapshotRow": 69,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-12"
+    },
+    {
+      "SnapshotRow": 70,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "หนองฮี",
+      "Subdistrict": "หนองฮี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-01"
+    },
+    {
+      "SnapshotRow": 71,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "สามชัย",
+      "Subdistrict": "หนองช้าง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-16"
+    },
+    {
+      "SnapshotRow": 72,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 73,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "หนองกุงศรี",
+      "Subdistrict": "หนองกุงศรี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-12"
+    },
+    {
+      "SnapshotRow": 74,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "กำพี้",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-31"
+    },
+    {
+      "SnapshotRow": 75,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "รอบเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-04"
+    },
+    {
+      "SnapshotRow": 76,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-09"
+    },
+    {
+      "SnapshotRow": 77,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-16"
+    },
+    {
+      "SnapshotRow": 78,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 79,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-18"
+    },
+    {
+      "SnapshotRow": 80,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 81,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-24"
+    },
+    {
+      "SnapshotRow": 82,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-20"
+    },
+    {
+      "SnapshotRow": 83,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "อาจสามารถ",
+      "Subdistrict": "อาจสามารถ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 84,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 85,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 86,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงน้อย",
+      "Subdistrict": "ละหานนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-18"
+    },
+    {
+      "SnapshotRow": 87,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 88,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 89,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-07"
+    },
+    {
+      "SnapshotRow": 90,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทอง",
+      "Subdistrict": "สระนกแก้ว",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 91,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-07"
+    },
+    {
+      "SnapshotRow": 92,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 93,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "พยัคฆภูมิพิสัย",
+      "Subdistrict": "ปะหลาน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-23"
+    },
+    {
+      "SnapshotRow": 94,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "บรบือ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 95,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 96,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ศิลา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-20"
+    },
+    {
+      "SnapshotRow": 97,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แวงน่าง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-20"
+    },
+    {
+      "SnapshotRow": 98,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-20"
+    },
+    {
+      "SnapshotRow": 99,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-26"
+    },
+    {
+      "SnapshotRow": 100,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 101,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 102,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "คำม่วง",
+      "Subdistrict": "ทุ่งคลอง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 103,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ทุ่งเขาหลวง",
+      "Subdistrict": "ทุ่งเขาหลวง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-13"
+    },
+    {
+      "SnapshotRow": 104,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แวงน่าง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-25"
+    },
+    {
+      "SnapshotRow": 105,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "โคกสว่าง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 106,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 107,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 108,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-18"
+    },
+    {
+      "SnapshotRow": 109,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "หนองแสง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 110,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 111,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 112,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ฆ้องชัย",
+      "Subdistrict": "ฆ้องชัยพัฒนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-28"
+    },
+    {
+      "SnapshotRow": 113,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 114,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เชียงยืน",
+      "Subdistrict": "เชียงยืน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-16"
+    },
+    {
+      "SnapshotRow": 115,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "แกดำ",
+      "Subdistrict": "แกดำ",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-03"
+    },
+    {
+      "SnapshotRow": 116,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ชื่นชม",
+      "Subdistrict": "ชื่นชม",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-27"
+    },
+    {
+      "SnapshotRow": 117,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "กมลาไสย",
+      "Subdistrict": "กมลาไสย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-06-25"
+    },
+    {
+      "SnapshotRow": 118,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "ไผ่",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-02"
+    },
+    {
+      "SnapshotRow": 119,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 120,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-08"
+    },
+    {
+      "SnapshotRow": 121,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 122,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-18"
+    },
+    {
+      "SnapshotRow": 123,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "ทุ่งศรีเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 124,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กุดรัง",
+      "Subdistrict": "กุดรัง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-20"
+    },
+    {
+      "SnapshotRow": 125,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "สมเด็จ",
+      "Subdistrict": "สมเด็จ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-28"
+    },
+    {
+      "SnapshotRow": 126,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "นาคู",
+      "Subdistrict": "นาคู",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-19"
+    },
+    {
+      "SnapshotRow": 127,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ปทุมรัตต์",
+      "Subdistrict": "บัวแดง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 128,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "โกสุมพิสัย",
+      "Subdistrict": "หัวขวาง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 129,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "กุฉินารายณ์",
+      "Subdistrict": "บัวขาว",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-21"
+    },
+    {
+      "SnapshotRow": 130,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-12"
+    },
+    {
+      "SnapshotRow": 131,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-20"
+    },
+    {
+      "SnapshotRow": 132,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 133,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "สระแก้ว",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 134,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทอง",
+      "Subdistrict": "แวง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 135,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 136,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แก่งเลิงจาน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-08"
+    },
+    {
+      "SnapshotRow": 137,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "โกสุมพิสัย",
+      "Subdistrict": "หัวขวาง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 138,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-12"
+    },
+    {
+      "SnapshotRow": 139,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-22"
+    },
+    {
+      "SnapshotRow": 140,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แวงน่าง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-12"
+    },
+    {
+      "SnapshotRow": 141,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงน้อย",
+      "Subdistrict": "แวงน้อย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-10"
+    },
+    {
+      "SnapshotRow": 142,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-10"
+    },
+    {
+      "SnapshotRow": 143,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 144,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ท่าคันโท",
+      "Subdistrict": "กุงเก่า",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-14"
+    },
+    {
+      "SnapshotRow": 145,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "เมืองเก่า",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-21"
+    },
+    {
+      "SnapshotRow": 146,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-19"
+    },
+    {
+      "SnapshotRow": 147,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-23"
+    },
+    {
+      "SnapshotRow": 148,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 149,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ห้วยเม็ก",
+      "Subdistrict": "ห้วยเม็ก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 150,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เชียงยืน",
+      "Subdistrict": "เชียงยืน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 151,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กันทรวิชัย",
+      "Subdistrict": "โคกพระ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-29"
+    },
+    {
+      "SnapshotRow": 152,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "นาดูน",
+      "Subdistrict": "นาดูน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-31"
+    },
+    {
+      "SnapshotRow": 153,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 154,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "จตุรพักตรพิมาน",
+      "Subdistrict": "หัวช้าง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 155,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "หนองฮี",
+      "Subdistrict": "หนองฮี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-01"
+    },
+    {
+      "SnapshotRow": 156,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "หนองกุงศรี",
+      "Subdistrict": "หนองกุงศรี",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-24"
+    },
+    {
+      "SnapshotRow": 157,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "หนองพอก",
+      "Subdistrict": "หนองพอก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-09"
+    },
+    {
+      "SnapshotRow": 158,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-16"
+    },
+    {
+      "SnapshotRow": 159,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 160,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 161,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 162,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "นาเชือก",
+      "Subdistrict": "นาเชือก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 163,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "คำม่วง",
+      "Subdistrict": "ทุ่งคลอง",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-14"
+    },
+    {
+      "SnapshotRow": 164,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "งัวบา",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 165,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 166,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 167,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 168,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "อาจสามารถ",
+      "Subdistrict": "อาจสามารถ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 169,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "โพธิ์ชัย",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 170,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ท่าคันโท",
+      "Subdistrict": "นาตาล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-09"
+    },
+    {
+      "SnapshotRow": 171,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ยางตลาด",
+      "Subdistrict": "ยางตลาด",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-06"
+    },
+    {
+      "SnapshotRow": 172,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เสลภูมิ",
+      "Subdistrict": "ขวัญเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 173,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ชื่นชม",
+      "Subdistrict": "ชื่นชม",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-27"
+    },
+    {
+      "SnapshotRow": 174,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 175,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ร่องคำ",
+      "Subdistrict": "ร่องคำ",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-16"
+    },
+    {
+      "SnapshotRow": 176,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ธวัชบุรี",
+      "Subdistrict": "ธงธานี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 177,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงใหญ่",
+      "Subdistrict": "ใหม่นาเพียง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-18"
+    },
+    {
+      "SnapshotRow": 178,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 179,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 180,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ฆ้องชัย",
+      "Subdistrict": "ฆ้องชัยพัฒนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-23"
+    },
+    {
+      "SnapshotRow": 181,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กุดรัง",
+      "Subdistrict": "กุดรัง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-16"
+    },
+    {
+      "SnapshotRow": 182,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-23"
+    },
+    {
+      "SnapshotRow": 183,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 184,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "สีชมพู",
+      "Subdistrict": "วังเพิ่ม",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-10"
+    },
+    {
+      "SnapshotRow": 185,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 186,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-21"
+    },
+    {
+      "SnapshotRow": 187,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เชียงขวัญ",
+      "Subdistrict": "พระธาตุ",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 188,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงใหญ่",
+      "Subdistrict": "คอนฉิม",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-12"
+    },
+    {
+      "SnapshotRow": 189,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 190,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 191,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 192,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-15"
+    },
+    {
+      "SnapshotRow": 193,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กันทรวิชัย",
+      "Subdistrict": "โคกพระ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-28"
+    },
+    {
+      "SnapshotRow": 194,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "ขามป้อม",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 195,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "หนองกุงศรี",
+      "Subdistrict": "หนองหิน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-13"
+    },
+    {
+      "SnapshotRow": 196,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "คำม่วง",
+      "Subdistrict": "ทุ่งคลอง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-01"
+    },
+    {
+      "SnapshotRow": 197,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ยางสีสุราช",
+      "Subdistrict": "ยางสีสุราช",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-22"
+    },
+    {
+      "SnapshotRow": 198,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-06-04"
+    },
+    {
+      "SnapshotRow": 199,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ยางตลาด",
+      "Subdistrict": "ยางตลาด",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-06"
+    },
+    {
+      "SnapshotRow": 200,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ห้วยผึ้ง",
+      "Subdistrict": "นิคมห้วยผึ้ง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-19"
+    },
+    {
+      "SnapshotRow": 201,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เขาวง",
+      "Subdistrict": "คุ้มเก่า",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 202,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-19"
+    },
+    {
+      "SnapshotRow": 203,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 204,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "ชื่นชม",
+      "Subdistrict": "ชื่นชม",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-23"
+    },
+    {
+      "SnapshotRow": 205,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 206,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 207,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 208,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "ขามป้อม",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 209,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ห้วยเม็ก",
+      "Subdistrict": "ห้วยเม็ก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-21"
+    },
+    {
+      "SnapshotRow": 210,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 211,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "วังไชย",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-07"
+    },
+    {
+      "SnapshotRow": 212,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-16"
+    },
+    {
+      "SnapshotRow": 213,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-12"
+    },
+    {
+      "SnapshotRow": 214,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-15"
+    },
+    {
+      "SnapshotRow": 215,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 216,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-08"
+    },
+    {
+      "SnapshotRow": 217,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "ท่าคันโท",
+      "Subdistrict": "กุงเก่า",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-14"
+    },
+    {
+      "SnapshotRow": 218,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-10"
+    },
+    {
+      "SnapshotRow": 219,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "กุดรัง",
+      "Subdistrict": "กุดรัง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-20"
+    },
+    {
+      "SnapshotRow": 220,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 221,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "โกสุมพิสัย",
+      "Subdistrict": "หัวขวาง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    }
+  ]
+}
