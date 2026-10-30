@@ -88,7 +88,7 @@ function Download-Json([string[]]$Urls, [string]$Name) {
     try {
       if ($curlTool) {
         $PSNativeCommandUseErrorActionPreference = $false
-        $detail = & $curlTool.Source @script:caArgs --ipv4 --http1.1 --fail --silent --show-error --connect-timeout 10 --max-time 40 --output $tempFile $candidate 2>&1
+        $detail = & $curlTool.Source @script:caArgs --ipv4 --http1.1 --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 5 --retry-max-time 240 --connect-timeout 30 --max-time 120 --output $tempFile $candidate 2>&1
         if ($LASTEXITCODE -ne 0) { throw "curl exit $LASTEXITCODE : $detail" }
         $body = [IO.File]::ReadAllText($tempFile)
       } else {
