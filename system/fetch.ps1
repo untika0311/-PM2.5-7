@@ -118,6 +118,6 @@ $start = [datetime]::ParseExact($Date,'yyyy-MM-dd',[cultureinfo]::InvariantCultu
 Write-Output "Requested date range (Gregorian): $start to $Date"
 $query = "stationID=$stationIds&param=PM25&type=hr&sdate=$start&edate=$Date&stime=00&etime=23"
 Download-Json @("https://air4thai.pcd.go.th/forweb/getHistoryData.php?$query","https://air4thai.com/forweb/getHistoryData.php?$query") 'history.json'
-Download-Json @('https://podfoon.anamai.moph.go.th/api/cleanroom/roomlists') 'rooms.json'
+Download-Json @('https://app.anamai.moph.go.th/podfoon/api/cleanroom/roomlists') 'rooms.json'
 [IO.File]::WriteAllText((Join-Path $cache 'fetched.json'),(@{date=$Date;fetchedAt=[DateTimeOffset]::UtcNow.ToString('o')}|ConvertTo-Json))
 Write-Output 'Downloaded Air4Thai and cleanroom sources. Raw records remain in private-cache.'
