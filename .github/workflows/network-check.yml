@@ -1,0 +1,64 @@
+name: Check API connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  connection:
+    name: Connection on ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 5
+    steps:
+      - name: Check DNS, TCP 443, HTTPS and API response
+        shell: python
+        run: |
+          import socket, ssl, http.client, os, time
+          from datetime import datetime, timezone, timedelta
+
+          today = datetime.now(timezone(timedelta(hours=7))).strftime('%Y-%m-%d')
+          targets = [
+              ('Air4Thai', 'air4thai.pcd.go.th', '/forweb/getAQI_JSON.php'),
+              ('New API welcome', 'app.anamai.moph.go.th', '/podfoon/api/cleanroom'),
+              ('New API provinces', 'app.anamai.moph.go.th', '/podfoon/api/cleanroom/province'),
+              ('New API room list', 'app.anamai.moph.go.th', '/podfoon/api/cleanroom/roomlists?filter_start=' + today + '&filter_end=' + today),
+              ('Old API welcome', 'podfoon.anamai.moph.go.th', '/api/cleanroom'),
+          ]
+          results = []
+          for label, host, path in targets:
+              stage, result = 'DNS', ''
+              started = time.monotonic()
+              conn = None
+              try:
+                  addresses = sorted({a[4][0] for a in socket.getaddrinfo(host, 443, socket.AF_INET, socket.SOCK_STREAM)})
+                  print(label + ' DNS: ' + ', '.join(addresses), flush=True)
+                  stage = 'TCP 443'
+                  with socket.create_connection((host, 443), timeout=10):
+                      pass
+                  print(label + ' TCP 443: OK', flush=True)
+                  stage = 'TLS/HTTPS'
+                  conn = http.client.HTTPSConnection(host, timeout=15, context=ssl.create_default_context())
+                  conn.request('GET', path, headers={'User-Agent': 'Than-Akat-connection-check', 'Accept': 'application/json'})
+                  reply = conn.getresponse()
+                  reply.read(1)
+                  result = 'HTTP ' + str(reply.status) + '; ' + str(reply.getheader('Content-Type', 'unknown content type'))
+              except Exception as e:
+                  result = stage + ' FAILED: ' + type(e).__name__ + ': ' + str(e).replace('\n', ' ')[:300]
+              finally:
+                  if conn:
+                      conn.close()
+              result += ' (' + str(round(time.monotonic() - started, 1)) + 's)'
+              print(label + ': ' + result, flush=True)
+              results.append((label, result))
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
+              out.write('## Connection test: ' + os.environ['RUNNER_OS'] + '\n\n')
+              out.write('This diagnostic does not send LINE or publish reports. TLS verification remains enabled.\n\n')
+              out.write('| Target | Result |\n|---|---|\n')
+              for label, result in results:
+                  out.write('| ' + label + ' | ' + result.replace('|', '/') + ' |\n')
