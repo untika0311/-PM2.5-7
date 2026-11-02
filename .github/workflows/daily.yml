@@ -6,8 +6,12 @@ on:
         description: 'Send this report to personal LINE after deployment'
         type: boolean
         default: false
+  push:
+    branches: [main]
+    paths: ['than-akat-system.zip', 'cleanrooms-weekly.json', '.github/workflows/daily.yml']
   schedule:
-    - cron: '0 0 * * *' # 07:00 Asia/Bangkok, subject to Actions queue delays
+    - cron: '0 0 * * *' # Primary request: 07:00 Bangkok; scheduler can delay
+    - cron: '13,33,53 0-5 * * *' # Automatic retries 07:13-12:53 Bangkok; accepted days skip
 permissions:
   contents: write
   pages: write
@@ -39,25 +43,36 @@ jobs:
           if git fetch origin gh-pages:refs/remotes/origin/gh-pages; then
             git archive origin/gh-pages | tar -x -C public
           fi
+      - name: Check accepted LINE delivery for today
+        id: due
+        run: node system/check-delivery.mjs
+        env:
+          SEND_LINE: ${{ inputs.send_line }}
       - name: Install renderer (RSU fonts are embedded)
+        if: steps.due.outputs.run_report == 'true'
         run: |
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
       - name: Tests
+        if: steps.due.outputs.run_report == 'true'
         run: npm test
       - name: Download Air4Thai (cleanrooms use weekly register)
+        if: steps.due.outputs.run_report == 'true'
         shell: pwsh
         run: |
           $date = [TimeZoneInfo]::ConvertTimeBySystemTimeZoneId([DateTime]::UtcNow,'Asia/Bangkok').ToString('yyyy-MM-dd',[cultureinfo]::InvariantCulture)
           ./system/fetch.ps1 -Date $date -AirOnly
       - name: Build and render report
+        if: steps.due.outputs.run_report == 'true'
         run: |
           node system/build.mjs
           node system/render.mjs
       - name: Report metadata
+        if: steps.due.outputs.run_report == 'true'
         run: |
           node --input-type=module -e 'import fs from "node:fs"; const r=JSON.parse(fs.readFileSync("public/report.json","utf8"));fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,"Report: "+r.date+" | issue "+r.publication.label+"\n\nCleanroom register updated: "+r.rooms.sourceDate+"; valid records today: "+r.rooms.total.rooms+". No cleanroom API request was made by this daily job.\n");'
       - name: Save public archive branch
+        if: steps.due.outputs.run_report == 'true'
         shell: bash
         run: |
           cd public
@@ -71,16 +86,34 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
       - uses: actions/configure-pages@v5
+        if: steps.due.outputs.run_report == 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.due.outputs.run_report == 'true'
         with:
           path: public
       - name: Deploy public reports
+        if: steps.due.outputs.run_report == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Send personal LINE
-        if: github.event_name == 'schedule' || inputs.send_line
+        if: steps.due.outputs.run_report == 'true' && steps.due.outputs.send_line == 'true'
         run: node system/send.mjs
         env:
           REPORT_BASE_URL: ${{ steps.deployment.outputs.page_url }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+      - name: Preserve accepted LINE receipt for automatic retries
+        if: steps.due.outputs.run_report == 'true' && steps.due.outputs.send_line == 'true'
+        shell: bash
+        run: |
+          test -f public/line-delivery-state.json
+          cd public
+          git init -b gh-pages
+          git config user.name 'than-akat-report'
+          git config user.email 'report@users.noreply.github.com'
+          git add .
+          git commit -m 'Record accepted LINE delivery'
+          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push --force "https://github.com/${GITHUB_REPOSITORY}.git" gh-pages
+          rm -rf .git
+        env:
+          GH_TOKEN: ${{ github.token }}
