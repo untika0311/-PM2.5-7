@@ -1,0 +1,563 @@
+{
+  "date": "2026-11-10",
+  "createdAt": "2026-11-10T02:47:17.191Z",
+  "fetched": {
+    "fetchedAt": "2026-11-10T02:47:17.0832328+00:00",
+    "date": "2026-11-10"
+  },
+  "air": {
+    "provinces": [
+      {
+        "name": "ขอนแก่น",
+        "iso": "TH-40",
+        "station": "46t",
+        "center": [
+          102.55,
+          16.45
+        ],
+        "stations": [
+          {
+            "id": "46t",
+            "name": "ส่วนอุทกวิทยา สำนักงานทรัพยากรน้ำภาคที่4 ขอนแก่น",
+            "time": "2026-11-10 07:00:00",
+            "value": 11.9,
+            "hours": 24,
+            "missingReason": null
+          }
+        ],
+        "stamp": "2026-11-10 07:00:00",
+        "value": 11.9,
+        "level": {
+          "index": 0,
+          "color": "#9edcfa",
+          "name": "ดีมาก"
+        },
+        "past": [
+          {
+            "date": "2026-11-10",
+            "value": 11.9,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11.9
+          },
+          {
+            "date": "2026-11-09",
+            "value": 15.6,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 15.6
+          },
+          {
+            "date": "2026-11-08",
+            "value": 16,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 16
+          },
+          {
+            "date": "2026-11-07",
+            "value": 14.2,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 14.2
+          },
+          {
+            "date": "2026-11-06",
+            "value": 18.4,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 18.4
+          },
+          {
+            "date": "2026-11-05",
+            "value": 18.9,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 18.9
+          },
+          {
+            "date": "2026-11-04",
+            "value": 18.6,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 18.6
+          }
+        ],
+        "highDays": 0,
+        "lowDays": 7,
+        "screening": "เข้าเกณฑ์ปิด"
+      },
+      {
+        "name": "มหาสารคาม",
+        "iso": "TH-44",
+        "station": "114t",
+        "center": [
+          103.12,
+          15.95
+        ],
+        "stations": [
+          {
+            "id": "114t",
+            "name": "สวนสุขภาพประมวลสุข",
+            "time": "2026-11-10 07:00:00",
+            "value": 9,
+            "hours": 24,
+            "missingReason": null
+          }
+        ],
+        "stamp": "2026-11-10 07:00:00",
+        "value": 9,
+        "level": {
+          "index": 0,
+          "color": "#9edcfa",
+          "name": "ดีมาก"
+        },
+        "past": [
+          {
+            "date": "2026-11-10",
+            "value": 9,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 9
+          },
+          {
+            "date": "2026-11-09",
+            "value": 11,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11
+          },
+          {
+            "date": "2026-11-08",
+            "value": 13.5,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 13.5
+          },
+          {
+            "date": "2026-11-07",
+            "value": 11.8,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11.8
+          },
+          {
+            "date": "2026-11-06",
+            "value": 14.6,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 14.6
+          },
+          {
+            "date": "2026-11-05",
+            "value": 13.6,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 13.6
+          },
+          {
+            "date": "2026-11-04",
+            "value": 14.2,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 14.2
+          }
+        ],
+        "highDays": 0,
+        "lowDays": 7,
+        "screening": "เข้าเกณฑ์ปิด"
+      },
+      {
+        "name": "ร้อยเอ็ด",
+        "iso": "TH-45",
+        "station": "113t",
+        "center": [
+          103.85,
+          15.95
+        ],
+        "stations": [
+          {
+            "id": "113t",
+            "name": "บึงพลาญชัย",
+            "time": "2026-11-10 07:00:00",
+            "value": 6.3,
+            "hours": 24,
+            "missingReason": null
+          }
+        ],
+        "stamp": "2026-11-10 07:00:00",
+        "value": 6.3,
+        "level": {
+          "index": 0,
+          "color": "#9edcfa",
+          "name": "ดีมาก"
+        },
+        "past": [
+          {
+            "date": "2026-11-10",
+            "value": 6.3,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 6.3
+          },
+          {
+            "date": "2026-11-09",
+            "value": 8.4,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 8.4
+          },
+          {
+            "date": "2026-11-08",
+            "value": 12.2,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 12.2
+          },
+          {
+            "date": "2026-11-07",
+            "value": 12.8,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 12.8
+          },
+          {
+            "date": "2026-11-06",
+            "value": 14,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 14
+          },
+          {
+            "date": "2026-11-05",
+            "value": 11.5,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11.5
+          },
+          {
+            "date": "2026-11-04",
+            "value": 15.7,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 15.7
+          }
+        ],
+        "highDays": 0,
+        "lowDays": 7,
+        "screening": "เข้าเกณฑ์ปิด"
+      },
+      {
+        "name": "กาฬสินธุ์",
+        "iso": "TH-46",
+        "station": "107t",
+        "center": [
+          103.65,
+          16.65
+        ],
+        "stations": [
+          {
+            "id": "107t",
+            "name": "สวนสาธารณะแก่งดอนกลาง",
+            "time": "2026-11-10 07:00:00",
+            "value": 7.9,
+            "hours": 24,
+            "missingReason": null
+          }
+        ],
+        "stamp": "2026-11-10 07:00:00",
+        "value": 7.9,
+        "level": {
+          "index": 0,
+          "color": "#9edcfa",
+          "name": "ดีมาก"
+        },
+        "past": [
+          {
+            "date": "2026-11-10",
+            "value": 7.9,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 7.9
+          },
+          {
+            "date": "2026-11-09",
+            "value": 9.2,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 9.2
+          },
+          {
+            "date": "2026-11-08",
+            "value": 11.8,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11.8
+          },
+          {
+            "date": "2026-11-07",
+            "value": 11.1,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 11.1
+          },
+          {
+            "date": "2026-11-06",
+            "value": 16,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 16
+          },
+          {
+            "date": "2026-11-05",
+            "value": null,
+            "minHours": 23,
+            "availableStations": 0,
+            "totalStations": 1,
+            "max": null
+          },
+          {
+            "date": "2026-11-04",
+            "value": 14.2,
+            "minHours": 24,
+            "availableStations": 1,
+            "totalStations": 1,
+            "max": 14.2
+          }
+        ],
+        "highDays": 0,
+        "lowDays": 5,
+        "screening": "ยังไม่เข้าเกณฑ์เปิด"
+      }
+    ],
+    "mean": 8.8,
+    "level": {
+      "index": 0,
+      "color": "#9edcfa",
+      "name": "ดีมาก"
+    },
+    "availableStations": 4,
+    "totalStations": 4,
+    "availableProvinces": 4,
+    "missingStations": [],
+    "stamp": "2026-11-10 07:00:00",
+    "cutoff": "07:00 Asia/Bangkok",
+    "above": 0,
+    "method": "ค่าเฉลี่ย 24 ชั่วโมง สิ้นสุด 07.00 น. ทุกวัน จากข้อมูลรายชั่วโมง Air4Thai ครบ 24 จุดต่อสถานี ไม่ใช้ค่าหลัง 07.00 น.; ค่าเฉลี่ยเขตเฉลี่ยเฉพาะสถานีที่มีข้อมูล แสดงจำนวนสถานีและรายการที่ขาด ไม่แทนค่าที่ขาดด้วยศูนย์; คัดกรอง PHEOC ด้วยค่าสูงสุดสถานีรายจังหวัดเฉพาะวันที่ข้อมูลครบ ไม่ใช่สถานะเปิดจริง"
+  },
+  "rooms": {
+    "total": {
+      "rooms": 217,
+      "districts": 55,
+      "subdistricts": 78,
+      "types": [
+        {
+          "name": "สถานบริการสาธารณสุข",
+          "count": 112
+        },
+        {
+          "name": "อาคารสถานศึกษา",
+          "count": 9
+        },
+        {
+          "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+          "count": 57
+        },
+        {
+          "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+          "count": 18
+        },
+        {
+          "name": "อาคารสำนักงาน",
+          "count": 15
+        },
+        {
+          "name": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+          "count": 6
+        }
+      ]
+    },
+    "provinces": [
+      {
+        "name": "ขอนแก่น",
+        "rooms": 59,
+        "districts": 7,
+        "subdistricts": 12,
+        "types": [
+          {
+            "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+            "count": 28
+          },
+          {
+            "name": "อาคารสำนักงาน",
+            "count": 2
+          },
+          {
+            "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+            "count": 11
+          },
+          {
+            "name": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+            "count": 2
+          },
+          {
+            "name": "สถานบริการสาธารณสุข",
+            "count": 13
+          },
+          {
+            "name": "อาคารสถานศึกษา",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "มหาสารคาม",
+        "rooms": 50,
+        "districts": 13,
+        "subdistricts": 21,
+        "types": [
+          {
+            "name": "สถานบริการสาธารณสุข",
+            "count": 23
+          },
+          {
+            "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+            "count": 20
+          },
+          {
+            "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+            "count": 3
+          },
+          {
+            "name": "อาคารสำนักงาน",
+            "count": 3
+          },
+          {
+            "name": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "ร้อยเอ็ด",
+        "rooms": 66,
+        "districts": 17,
+        "subdistricts": 24,
+        "types": [
+          {
+            "name": "สถานบริการสาธารณสุข",
+            "count": 47
+          },
+          {
+            "name": "อาคารสำนักงาน",
+            "count": 10
+          },
+          {
+            "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+            "count": 6
+          },
+          {
+            "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "กาฬสินธุ์",
+        "rooms": 42,
+        "districts": 18,
+        "subdistricts": 21,
+        "types": [
+          {
+            "name": "อาคารสถานศึกษา",
+            "count": 6
+          },
+          {
+            "name": "สถานบริการสาธารณสุข",
+            "count": 29
+          },
+          {
+            "name": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+            "count": 3
+          },
+          {
+            "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+            "count": 3
+          },
+          {
+            "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "types": [
+      {
+        "name": "สถานบริการสาธารณสุข",
+        "count": 112
+      },
+      {
+        "name": "อาคารสถานศึกษา",
+        "count": 9
+      },
+      {
+        "name": "อาคารสถานพัฒนาเด็กปฐมวัย",
+        "count": 57
+      },
+      {
+        "name": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+        "count": 18
+      },
+      {
+        "name": "อาคารสำนักงาน",
+        "count": 15
+      },
+      {
+        "name": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+        "count": 6
+      }
+    ],
+    "duplicateRows": 0,
+    "missingLocation": 1,
+    "start": "2025-11-10",
+    "date": "2026-11-10",
+    "method": "นับรายการต้นทางอาคารสาธารณะ ประเมินตนเองผ่าน ในช่วงวันครบหนึ่งปีย้อนหลังถึงวันรายงาน รวมวันต้นและวันปลาย; ไม่ใช่ยืนยันเปิดบริการ; คำนวณอายุใหม่ทุกวันจากทะเบียนที่อัปเดตรายสัปดาห์ ณ 2026-11-09; รายการเพิ่ม/แก้ไขหลังวันดังกล่าวจะปรากฏเมื่ออัปเดตชุดข้อมูลถัดไป",
+    "sourceMode": "weekly",
+    "sourceDate": "2026-11-09",
+    "sourceFetchedAt": "2026-11-09T01:14:53.127Z",
+    "sourceAgeDays": 1
+  },
+  "publication": {
+    "date": "2026-11-10",
+    "number": 10,
+    "year": 2570,
+    "label": "10/2570",
+    "preview": false
+  }
+}
