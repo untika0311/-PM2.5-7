@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "sourceUrl": "https://app.anamai.moph.go.th/podfoon/api/cleanroom/roomlists",
-  "asOf": "2026-11-09",
-  "fetchedAt": "2026-11-09T01:14:53.127Z",
+  "asOf": "2026-11-16",
+  "fetchedAt": "2026-11-16T02:32:46.104Z",
   "refreshSchedule": "Friday evening; manual upload for Saturday onward",
-  "qualifyingAtUpdate": 217,
+  "qualifyingAtUpdate": 219,
   "rows": [
     {
       "SnapshotRow": 1,
@@ -129,6 +129,16 @@
     {
       "SnapshotRow": 13,
       "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "กมลาไสย",
+      "Subdistrict": "กมลาไสย",
+      "Type": "อาคารสถานบริการ ตามกฎหมายว่าด้วยสถานบริการ",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-14"
+    },
+    {
+      "SnapshotRow": 14,
+      "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "ทุ่งเขาหลวง",
       "Subdistrict": "ทุ่งเขาหลวง",
@@ -137,7 +147,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 14,
+      "SnapshotRow": 15,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "สหัสขันธ์",
@@ -147,7 +157,7 @@
       "SelfAssessment": "2026-10-07"
     },
     {
-      "SnapshotRow": 15,
+      "SnapshotRow": 16,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "วาปีปทุม",
@@ -157,7 +167,7 @@
       "SelfAssessment": "2026-08-03"
     },
     {
-      "SnapshotRow": 16,
+      "SnapshotRow": 17,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -167,7 +177,7 @@
       "SelfAssessment": "2026-01-21"
     },
     {
-      "SnapshotRow": 17,
+      "SnapshotRow": 18,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ดอนจาน",
@@ -177,7 +187,7 @@
       "SelfAssessment": "2026-10-16"
     },
     {
-      "SnapshotRow": 18,
+      "SnapshotRow": 19,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -187,7 +197,7 @@
       "SelfAssessment": "2026-06-06"
     },
     {
-      "SnapshotRow": 19,
+      "SnapshotRow": 20,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -197,7 +207,7 @@
       "SelfAssessment": "2026-03-06"
     },
     {
-      "SnapshotRow": 20,
+      "SnapshotRow": 21,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -207,7 +217,7 @@
       "SelfAssessment": "2025-12-08"
     },
     {
-      "SnapshotRow": 21,
+      "SnapshotRow": 22,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -217,7 +227,7 @@
       "SelfAssessment": "2026-10-14"
     },
     {
-      "SnapshotRow": 22,
+      "SnapshotRow": 23,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -227,7 +237,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 23,
+      "SnapshotRow": 24,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -237,7 +247,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 24,
+      "SnapshotRow": 25,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -247,7 +257,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 25,
+      "SnapshotRow": 26,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "วาปีปทุม",
@@ -257,7 +267,7 @@
       "SelfAssessment": "2026-08-03"
     },
     {
-      "SnapshotRow": 26,
+      "SnapshotRow": 27,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ฆ้องชัย",
@@ -267,7 +277,7 @@
       "SelfAssessment": "2025-12-02"
     },
     {
-      "SnapshotRow": 27,
+      "SnapshotRow": 28,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เชียงยืน",
@@ -277,7 +287,7 @@
       "SelfAssessment": "2026-01-28"
     },
     {
-      "SnapshotRow": 28,
+      "SnapshotRow": 29,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -287,7 +297,7 @@
       "SelfAssessment": "2025-11-20"
     },
     {
-      "SnapshotRow": 29,
+      "SnapshotRow": 30,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "นาเชือก",
@@ -297,7 +307,7 @@
       "SelfAssessment": "2026-01-27"
     },
     {
-      "SnapshotRow": 30,
+      "SnapshotRow": 31,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -307,7 +317,7 @@
       "SelfAssessment": "2026-01-05"
     },
     {
-      "SnapshotRow": 31,
+      "SnapshotRow": 32,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -317,7 +327,7 @@
       "SelfAssessment": "2026-01-08"
     },
     {
-      "SnapshotRow": 32,
+      "SnapshotRow": 33,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "บรบือ",
@@ -327,7 +337,7 @@
       "SelfAssessment": "2026-01-21"
     },
     {
-      "SnapshotRow": 33,
+      "SnapshotRow": 34,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -337,7 +347,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 34,
+      "SnapshotRow": 35,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -347,7 +357,7 @@
       "SelfAssessment": "2026-01-15"
     },
     {
-      "SnapshotRow": 35,
+      "SnapshotRow": 36,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -357,7 +367,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 36,
+      "SnapshotRow": 37,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -367,7 +377,7 @@
       "SelfAssessment": "2026-01-19"
     },
     {
-      "SnapshotRow": 37,
+      "SnapshotRow": 38,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -377,7 +387,7 @@
       "SelfAssessment": "2025-11-18"
     },
     {
-      "SnapshotRow": 38,
+      "SnapshotRow": 39,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -387,7 +397,7 @@
       "SelfAssessment": "2026-09-11"
     },
     {
-      "SnapshotRow": 39,
+      "SnapshotRow": 40,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "โพธิ์ชัย",
@@ -397,7 +407,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 40,
+      "SnapshotRow": 41,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "สุวรรณภูมิ",
@@ -407,7 +417,7 @@
       "SelfAssessment": "2026-01-20"
     },
     {
-      "SnapshotRow": 41,
+      "SnapshotRow": 42,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -417,7 +427,7 @@
       "SelfAssessment": "2026-02-06"
     },
     {
-      "SnapshotRow": 42,
+      "SnapshotRow": 43,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -427,7 +437,7 @@
       "SelfAssessment": "2026-09-07"
     },
     {
-      "SnapshotRow": 43,
+      "SnapshotRow": 44,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -437,7 +447,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 44,
+      "SnapshotRow": 45,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -447,7 +457,7 @@
       "SelfAssessment": "2026-01-15"
     },
     {
-      "SnapshotRow": 45,
+      "SnapshotRow": 46,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "จังหาร",
@@ -457,7 +467,7 @@
       "SelfAssessment": "2026-03-05"
     },
     {
-      "SnapshotRow": 46,
+      "SnapshotRow": 47,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "นาดูน",
@@ -467,7 +477,7 @@
       "SelfAssessment": "2026-02-06"
     },
     {
-      "SnapshotRow": 47,
+      "SnapshotRow": 48,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "สหัสขันธ์",
@@ -477,7 +487,7 @@
       "SelfAssessment": "2026-10-07"
     },
     {
-      "SnapshotRow": 48,
+      "SnapshotRow": 49,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -487,7 +497,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 49,
+      "SnapshotRow": 50,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -497,7 +507,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 50,
+      "SnapshotRow": 51,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "ยางสีสุราช",
@@ -507,7 +517,7 @@
       "SelfAssessment": "2026-01-22"
     },
     {
-      "SnapshotRow": 51,
+      "SnapshotRow": 52,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "ปทุมรัตต์",
@@ -517,7 +527,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 52,
+      "SnapshotRow": 53,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เชียงยืน",
@@ -527,7 +537,7 @@
       "SelfAssessment": "2025-12-24"
     },
     {
-      "SnapshotRow": 53,
+      "SnapshotRow": 54,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "โกสุมพิสัย",
@@ -537,7 +547,7 @@
       "SelfAssessment": "2026-03-10"
     },
     {
-      "SnapshotRow": 54,
+      "SnapshotRow": 55,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เชียงยืน",
@@ -547,7 +557,7 @@
       "SelfAssessment": "2026-03-16"
     },
     {
-      "SnapshotRow": 55,
+      "SnapshotRow": 56,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กุดรัง",
@@ -557,7 +567,7 @@
       "SelfAssessment": "2026-01-28"
     },
     {
-      "SnapshotRow": 56,
+      "SnapshotRow": 57,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -567,7 +577,7 @@
       "SelfAssessment": "2026-08-19"
     },
     {
-      "SnapshotRow": 57,
+      "SnapshotRow": 58,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -577,7 +587,7 @@
       "SelfAssessment": "2026-03-17"
     },
     {
-      "SnapshotRow": 58,
+      "SnapshotRow": 59,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -587,7 +597,7 @@
       "SelfAssessment": "2026-07-21"
     },
     {
-      "SnapshotRow": 59,
+      "SnapshotRow": 60,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "พล",
@@ -597,7 +607,17 @@
       "SelfAssessment": "2026-10-27"
     },
     {
-      "SnapshotRow": 60,
+      "SnapshotRow": 61,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "หนองนาคำ",
+      "Subdistrict": "บ้านโคก",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-11-10"
+    },
+    {
+      "SnapshotRow": 62,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "จตุรพักตรพิมาน",
@@ -607,7 +627,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 61,
+      "SnapshotRow": 63,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -615,26 +635,6 @@
       "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
       "EvaluationResult": "ผ่าน",
       "SelfAssessment": "2026-03-18"
-    },
-    {
-      "SnapshotRow": 62,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "เกษตรวิสัย",
-      "Subdistrict": "เกษตรวิสัย",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-10"
-    },
-    {
-      "SnapshotRow": 63,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "พล",
-      "Subdistrict": "เมืองพล",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-10-27"
     },
     {
       "SnapshotRow": 64,
@@ -660,124 +660,14 @@
       "SnapshotRow": 66,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
-      "District": "เมืองร้อยเอ็ด",
-      "Subdistrict": "ในเมือง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "District": "เกษตรวิสัย",
+      "Subdistrict": "เกษตรวิสัย",
+      "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-04"
+      "SelfAssessment": "2026-02-10"
     },
     {
       "SnapshotRow": 67,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "นามน",
-      "Subdistrict": "นามน",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-10-01"
-    },
-    {
-      "SnapshotRow": 68,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานศึกษา",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-12"
-    },
-    {
-      "SnapshotRow": 69,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "หนองฮี",
-      "Subdistrict": "หนองฮี",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-04-01"
-    },
-    {
-      "SnapshotRow": 70,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "สามชัย",
-      "Subdistrict": "หนองช้าง",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-10-16"
-    },
-    {
-      "SnapshotRow": 71,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "พนมไพร",
-      "Subdistrict": "พนมไพร",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-05"
-    },
-    {
-      "SnapshotRow": 72,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "หนองกุงศรี",
-      "Subdistrict": "หนองกุงศรี",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-10-12"
-    },
-    {
-      "SnapshotRow": 73,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "บรบือ",
-      "Subdistrict": "กำพี้",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-07-31"
-    },
-    {
-      "SnapshotRow": 74,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-12-09"
-    },
-    {
-      "SnapshotRow": 75,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "โพนทราย",
-      "Subdistrict": "โพนทราย",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-16"
-    },
-    {
-      "SnapshotRow": 76,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-03-06"
-    },
-    {
-      "SnapshotRow": 77,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-18"
-    },
-    {
-      "SnapshotRow": 78,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "พล",
@@ -787,257 +677,57 @@
       "SelfAssessment": "2026-10-27"
     },
     {
-      "SnapshotRow": 79,
+      "SnapshotRow": 68,
       "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
+      "Province": "ร้อยเอ็ด",
+      "District": "เมืองร้อยเอ็ด",
       "Subdistrict": "ในเมือง",
       "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-24"
+      "SelfAssessment": "2026-02-04"
     },
     {
-      "SnapshotRow": 80,
+      "SnapshotRow": 69,
       "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "เมืองมหาสารคาม",
-      "Subdistrict": "ตลาด",
-      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-20"
-    },
-    {
-      "SnapshotRow": 81,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "อาจสามารถ",
-      "Subdistrict": "อาจสามารถ",
+      "Province": "กาฬสินธุ์",
+      "District": "นามน",
+      "Subdistrict": "นามน",
       "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-09"
+      "SelfAssessment": "2026-10-01"
     },
     {
-      "SnapshotRow": 82,
+      "SnapshotRow": 70,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
       "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-03-06"
-    },
-    {
-      "SnapshotRow": 83,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "แวงน้อย",
-      "Subdistrict": "ละหานนา",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-05-18"
-    },
-    {
-      "SnapshotRow": 84,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-12-08"
-    },
-    {
-      "SnapshotRow": 85,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "เมืองกาฬสินธุ์",
-      "Subdistrict": "กาฬสินธุ์",
       "Type": "อาคารสถานศึกษา",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-09-07"
+      "SelfAssessment": "2026-02-12"
     },
     {
-      "SnapshotRow": 86,
+      "SnapshotRow": 71,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
-      "District": "โพนทอง",
-      "Subdistrict": "สระนกแก้ว",
+      "District": "หนองฮี",
+      "Subdistrict": "หนองฮี",
       "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-10"
+      "SelfAssessment": "2026-04-01"
     },
     {
-      "SnapshotRow": 87,
+      "SnapshotRow": 72,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
-      "District": "เมืองกาฬสินธุ์",
-      "Subdistrict": "กาฬสินธุ์",
-      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-09-07"
-    },
-    {
-      "SnapshotRow": 88,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "แวงน้อย",
-      "Subdistrict": "ละหานนา",
+      "District": "สามชัย",
+      "Subdistrict": "หนองช้าง",
       "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-11-06"
+      "SelfAssessment": "2026-10-16"
     },
     {
-      "SnapshotRow": 89,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-03-06"
-    },
-    {
-      "SnapshotRow": 90,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "พยัคฆภูมิพิสัย",
-      "Subdistrict": "ปะหลาน",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-23"
-    },
-    {
-      "SnapshotRow": 91,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "บรบือ",
-      "Subdistrict": "บรบือ",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-08-03"
-    },
-    {
-      "SnapshotRow": 92,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-04-17"
-    },
-    {
-      "SnapshotRow": 93,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ศิลา",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-04-20"
-    },
-    {
-      "SnapshotRow": 94,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "เมืองมหาสารคาม",
-      "Subdistrict": "แวงน่าง",
-      "Type": "อาคารสำนักงาน",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-20"
-    },
-    {
-      "SnapshotRow": 95,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "เมืองกาฬสินธุ์",
-      "Subdistrict": "กาฬสินธุ์",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-07-20"
-    },
-    {
-      "SnapshotRow": 96,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "โพนทราย",
-      "Subdistrict": "โพนทราย",
-      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-12-26"
-    },
-    {
-      "SnapshotRow": 97,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-04-17"
-    },
-    {
-      "SnapshotRow": 98,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-03-06"
-    },
-    {
-      "SnapshotRow": 99,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "กาฬสินธุ์",
-      "District": "คำม่วง",
-      "Subdistrict": "ทุ่งคลอง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-09-11"
-    },
-    {
-      "SnapshotRow": 100,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "ทุ่งเขาหลวง",
-      "Subdistrict": "ทุ่งเขาหลวง",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-13"
-    },
-    {
-      "SnapshotRow": 101,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "เมืองมหาสารคาม",
-      "Subdistrict": "แวงน่าง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-05-25"
-    },
-    {
-      "SnapshotRow": 102,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "พนมไพร",
-      "Subdistrict": "โคกสว่าง",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-11"
-    },
-    {
-      "SnapshotRow": 103,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-04-17"
-    },
-    {
-      "SnapshotRow": 104,
+      "SnapshotRow": 73,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -1047,7 +737,57 @@
       "SelfAssessment": "2026-01-05"
     },
     {
-      "SnapshotRow": 105,
+      "SnapshotRow": 74,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "หนองกุงศรี",
+      "Subdistrict": "หนองกุงศรี",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-12"
+    },
+    {
+      "SnapshotRow": 75,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "กำพี้",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-31"
+    },
+    {
+      "SnapshotRow": 76,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-09"
+    },
+    {
+      "SnapshotRow": 77,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-16"
+    },
+    {
+      "SnapshotRow": 78,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 79,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1057,14 +797,274 @@
       "SelfAssessment": "2025-11-18"
     },
     {
-      "SnapshotRow": 106,
+      "SnapshotRow": 80,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พล",
+      "Subdistrict": "เมืองพล",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-10-27"
+    },
+    {
+      "SnapshotRow": 81,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-24"
+    },
+    {
+      "SnapshotRow": 82,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
-      "District": "วาปีปทุม",
-      "Subdistrict": "หนองแสง",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "ตลาด",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-20"
+    },
+    {
+      "SnapshotRow": 83,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "อาจสามารถ",
+      "Subdistrict": "อาจสามารถ",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-09"
+    },
+    {
+      "SnapshotRow": 84,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "พระยืน",
+      "Subdistrict": "พระยืน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-11-09"
+    },
+    {
+      "SnapshotRow": 85,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 86,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงน้อย",
+      "Subdistrict": "ละหานนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-18"
+    },
+    {
+      "SnapshotRow": 87,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-08"
+    },
+    {
+      "SnapshotRow": 88,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-07"
+    },
+    {
+      "SnapshotRow": 89,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทอง",
+      "Subdistrict": "สระนกแก้ว",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-10"
+    },
+    {
+      "SnapshotRow": 90,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "อาคารสถานที่จำหน่ายอาหารและเครื่องดื่ม",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-07"
+    },
+    {
+      "SnapshotRow": 91,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงน้อย",
+      "Subdistrict": "ละหานนา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-11-06"
+    },
+    {
+      "SnapshotRow": 92,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 93,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "พยัคฆภูมิพิสัย",
+      "Subdistrict": "ปะหลาน",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-23"
+    },
+    {
+      "SnapshotRow": 94,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "บรบือ",
+      "Subdistrict": "บรบือ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-08-03"
+    },
+    {
+      "SnapshotRow": 95,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 96,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ศิลา",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-20"
+    },
+    {
+      "SnapshotRow": 97,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แวงน่าง",
+      "Type": "อาคารสำนักงาน",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-20"
+    },
+    {
+      "SnapshotRow": 98,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "เมืองกาฬสินธุ์",
+      "Subdistrict": "กาฬสินธุ์",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-07-20"
+    },
+    {
+      "SnapshotRow": 99,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทราย",
+      "Subdistrict": "โพนทราย",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-12-26"
+    },
+    {
+      "SnapshotRow": 100,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
+    },
+    {
+      "SnapshotRow": 101,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-03-06"
+    },
+    {
+      "SnapshotRow": 102,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "กาฬสินธุ์",
+      "District": "คำม่วง",
+      "Subdistrict": "ทุ่งคลอง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-09-11"
+    },
+    {
+      "SnapshotRow": 103,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "ทุ่งเขาหลวง",
+      "Subdistrict": "ทุ่งเขาหลวง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-13"
+    },
+    {
+      "SnapshotRow": 104,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แวงน่าง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-25"
+    },
+    {
+      "SnapshotRow": 105,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "โคกสว่าง",
       "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
       "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 106,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-04-17"
     },
     {
       "SnapshotRow": 107,
@@ -1079,6 +1079,46 @@
     {
       "SnapshotRow": 108,
       "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2025-11-18"
+    },
+    {
+      "SnapshotRow": 109,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "วาปีปทุม",
+      "Subdistrict": "หนองแสง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-11"
+    },
+    {
+      "SnapshotRow": 110,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "พนมไพร",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-05"
+    },
+    {
+      "SnapshotRow": 111,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "แวงน้อย",
+      "Subdistrict": "แวงน้อย",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-11-16"
+    },
+    {
+      "SnapshotRow": 112,
+      "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
       "Subdistrict": "เกษตรวิสัย",
@@ -1087,7 +1127,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 109,
+      "SnapshotRow": 113,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ฆ้องชัย",
@@ -1097,7 +1137,7 @@
       "SelfAssessment": "2026-09-28"
     },
     {
-      "SnapshotRow": 110,
+      "SnapshotRow": 114,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1107,7 +1147,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 111,
+      "SnapshotRow": 115,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เชียงยืน",
@@ -1117,7 +1157,7 @@
       "SelfAssessment": "2026-03-16"
     },
     {
-      "SnapshotRow": 112,
+      "SnapshotRow": 116,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "แกดำ",
@@ -1127,7 +1167,7 @@
       "SelfAssessment": "2026-02-03"
     },
     {
-      "SnapshotRow": 113,
+      "SnapshotRow": 117,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "ชื่นชม",
@@ -1137,7 +1177,7 @@
       "SelfAssessment": "2026-07-27"
     },
     {
-      "SnapshotRow": 114,
+      "SnapshotRow": 118,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "กมลาไสย",
@@ -1147,7 +1187,7 @@
       "SelfAssessment": "2026-06-25"
     },
     {
-      "SnapshotRow": 115,
+      "SnapshotRow": 119,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -1157,7 +1197,7 @@
       "SelfAssessment": "2026-04-02"
     },
     {
-      "SnapshotRow": 116,
+      "SnapshotRow": 120,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -1167,7 +1207,7 @@
       "SelfAssessment": "2026-05-08"
     },
     {
-      "SnapshotRow": 117,
+      "SnapshotRow": 121,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1177,7 +1217,7 @@
       "SelfAssessment": "2025-11-18"
     },
     {
-      "SnapshotRow": 118,
+      "SnapshotRow": 122,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "สุวรรณภูมิ",
@@ -1187,7 +1227,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 119,
+      "SnapshotRow": 123,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กุดรัง",
@@ -1197,7 +1237,7 @@
       "SelfAssessment": "2026-01-20"
     },
     {
-      "SnapshotRow": 120,
+      "SnapshotRow": 124,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "สมเด็จ",
@@ -1207,7 +1247,7 @@
       "SelfAssessment": "2026-09-28"
     },
     {
-      "SnapshotRow": 121,
+      "SnapshotRow": 125,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "นาคู",
@@ -1217,7 +1257,7 @@
       "SelfAssessment": "2026-10-19"
     },
     {
-      "SnapshotRow": 122,
+      "SnapshotRow": 126,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "ปทุมรัตต์",
@@ -1227,7 +1267,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 123,
+      "SnapshotRow": 127,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "โกสุมพิสัย",
@@ -1237,7 +1277,7 @@
       "SelfAssessment": "2026-01-27"
     },
     {
-      "SnapshotRow": 124,
+      "SnapshotRow": 128,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "กุฉินารายณ์",
@@ -1247,7 +1287,7 @@
       "SelfAssessment": "2026-10-21"
     },
     {
-      "SnapshotRow": 125,
+      "SnapshotRow": 129,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1255,46 +1295,6 @@
       "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
       "EvaluationResult": "ผ่าน",
       "SelfAssessment": "2026-02-12"
-    },
-    {
-      "SnapshotRow": 126,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ในเมือง",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-20"
-    },
-    {
-      "SnapshotRow": 127,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "สุวรรณภูมิ",
-      "Subdistrict": "สระคู",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-10"
-    },
-    {
-      "SnapshotRow": 128,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "พนมไพร",
-      "Subdistrict": "สระแก้ว",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-11"
-    },
-    {
-      "SnapshotRow": 129,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "โพนทอง",
-      "Subdistrict": "แวง",
-      "Type": "สถานบริการสาธารณสุข",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-11"
     },
     {
       "SnapshotRow": 130,
@@ -1304,37 +1304,37 @@
       "Subdistrict": "ในเมือง",
       "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-15"
+      "SelfAssessment": "2025-11-20"
     },
     {
       "SnapshotRow": 131,
       "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "เมืองมหาสารคาม",
-      "Subdistrict": "แก่งเลิงจาน",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "Province": "ร้อยเอ็ด",
+      "District": "สุวรรณภูมิ",
+      "Subdistrict": "สระคู",
+      "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-05-08"
+      "SelfAssessment": "2026-02-10"
     },
     {
       "SnapshotRow": 132,
       "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "มหาสารคาม",
-      "District": "โกสุมพิสัย",
-      "Subdistrict": "หัวขวาง",
+      "Province": "ร้อยเอ็ด",
+      "District": "พนมไพร",
+      "Subdistrict": "สระแก้ว",
       "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-27"
+      "SelfAssessment": "2026-02-11"
     },
     {
       "SnapshotRow": 133,
       "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "เมืองขอนแก่น",
-      "Subdistrict": "ท่าพระ",
-      "Type": "อาคารสถานศึกษา",
+      "Province": "ร้อยเอ็ด",
+      "District": "โพนทอง",
+      "Subdistrict": "แวง",
+      "Type": "สถานบริการสาธารณสุข",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-02-12"
+      "SelfAssessment": "2026-02-11"
     },
     {
       "SnapshotRow": 134,
@@ -1344,10 +1344,50 @@
       "Subdistrict": "ในเมือง",
       "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
       "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2026-01-22"
+      "SelfAssessment": "2026-01-15"
     },
     {
       "SnapshotRow": 135,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "เมืองมหาสารคาม",
+      "Subdistrict": "แก่งเลิงจาน",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-05-08"
+    },
+    {
+      "SnapshotRow": 136,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "มหาสารคาม",
+      "District": "โกสุมพิสัย",
+      "Subdistrict": "หัวขวาง",
+      "Type": "สถานบริการสาธารณสุข",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-27"
+    },
+    {
+      "SnapshotRow": 137,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ท่าพระ",
+      "Type": "อาคารสถานศึกษา",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-02-12"
+    },
+    {
+      "SnapshotRow": 138,
+      "HealthZone": "เขตสุขภาพที่ 7",
+      "Province": "ขอนแก่น",
+      "District": "เมืองขอนแก่น",
+      "Subdistrict": "ในเมือง",
+      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
+      "EvaluationResult": "ผ่าน",
+      "SelfAssessment": "2026-01-22"
+    },
+    {
+      "SnapshotRow": 139,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -1357,17 +1397,7 @@
       "SelfAssessment": "2026-05-12"
     },
     {
-      "SnapshotRow": 136,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ขอนแก่น",
-      "District": "แวงน้อย",
-      "Subdistrict": "แวงน้อย",
-      "Type": "อาคารสถานพัฒนาเด็กปฐมวัย",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-10"
-    },
-    {
-      "SnapshotRow": 137,
+      "SnapshotRow": 140,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -1377,7 +1407,7 @@
       "SelfAssessment": "2026-03-10"
     },
     {
-      "SnapshotRow": 138,
+      "SnapshotRow": 141,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ท่าคันโท",
@@ -1387,7 +1417,7 @@
       "SelfAssessment": "2026-10-14"
     },
     {
-      "SnapshotRow": 139,
+      "SnapshotRow": 142,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1397,7 +1427,7 @@
       "SelfAssessment": "2026-07-21"
     },
     {
-      "SnapshotRow": 140,
+      "SnapshotRow": 143,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -1407,7 +1437,7 @@
       "SelfAssessment": "2025-11-19"
     },
     {
-      "SnapshotRow": 141,
+      "SnapshotRow": 144,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1417,7 +1447,7 @@
       "SelfAssessment": "2026-01-23"
     },
     {
-      "SnapshotRow": 142,
+      "SnapshotRow": 145,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -1427,7 +1457,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 143,
+      "SnapshotRow": 146,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ห้วยเม็ก",
@@ -1437,7 +1467,7 @@
       "SelfAssessment": "2026-09-11"
     },
     {
-      "SnapshotRow": 144,
+      "SnapshotRow": 147,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เชียงยืน",
@@ -1447,7 +1477,7 @@
       "SelfAssessment": "2026-01-27"
     },
     {
-      "SnapshotRow": 145,
+      "SnapshotRow": 148,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กันทรวิชัย",
@@ -1457,7 +1487,7 @@
       "SelfAssessment": "2026-01-29"
     },
     {
-      "SnapshotRow": 146,
+      "SnapshotRow": 149,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "นาดูน",
@@ -1467,7 +1497,7 @@
       "SelfAssessment": "2026-07-31"
     },
     {
-      "SnapshotRow": 147,
+      "SnapshotRow": 150,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1477,7 +1507,7 @@
       "SelfAssessment": "2025-12-08"
     },
     {
-      "SnapshotRow": 148,
+      "SnapshotRow": 151,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "จตุรพักตรพิมาน",
@@ -1487,7 +1517,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 149,
+      "SnapshotRow": 152,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "หนองฮี",
@@ -1497,7 +1527,7 @@
       "SelfAssessment": "2026-04-01"
     },
     {
-      "SnapshotRow": 150,
+      "SnapshotRow": 153,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "หนองกุงศรี",
@@ -1507,7 +1537,7 @@
       "SelfAssessment": "2025-12-24"
     },
     {
-      "SnapshotRow": 151,
+      "SnapshotRow": 154,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "หนองพอก",
@@ -1517,7 +1547,7 @@
       "SelfAssessment": "2026-01-09"
     },
     {
-      "SnapshotRow": 152,
+      "SnapshotRow": 155,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "โพนทราย",
@@ -1527,7 +1557,7 @@
       "SelfAssessment": "2026-02-16"
     },
     {
-      "SnapshotRow": 153,
+      "SnapshotRow": 156,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1537,7 +1567,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 154,
+      "SnapshotRow": 157,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -1547,7 +1577,7 @@
       "SelfAssessment": "2026-01-05"
     },
     {
-      "SnapshotRow": 155,
+      "SnapshotRow": 158,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -1557,7 +1587,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 156,
+      "SnapshotRow": 159,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "นาเชือก",
@@ -1567,7 +1597,7 @@
       "SelfAssessment": "2026-01-27"
     },
     {
-      "SnapshotRow": 157,
+      "SnapshotRow": 160,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "บ้านไผ่",
@@ -1577,7 +1607,7 @@
       "SelfAssessment": "2026-11-02"
     },
     {
-      "SnapshotRow": 158,
+      "SnapshotRow": 161,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "คำม่วง",
@@ -1587,7 +1617,7 @@
       "SelfAssessment": "2026-09-14"
     },
     {
-      "SnapshotRow": 159,
+      "SnapshotRow": 162,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "วาปีปทุม",
@@ -1597,7 +1627,7 @@
       "SelfAssessment": "2026-08-03"
     },
     {
-      "SnapshotRow": 160,
+      "SnapshotRow": 163,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -1607,7 +1637,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 161,
+      "SnapshotRow": 164,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "สุวรรณภูมิ",
@@ -1617,7 +1647,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 162,
+      "SnapshotRow": 165,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "พล",
@@ -1627,7 +1657,7 @@
       "SelfAssessment": "2026-10-27"
     },
     {
-      "SnapshotRow": 163,
+      "SnapshotRow": 166,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "อาจสามารถ",
@@ -1637,7 +1667,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 164,
+      "SnapshotRow": 167,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -1647,7 +1677,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 165,
+      "SnapshotRow": 168,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ท่าคันโท",
@@ -1657,7 +1687,7 @@
       "SelfAssessment": "2026-10-09"
     },
     {
-      "SnapshotRow": 166,
+      "SnapshotRow": 169,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ยางตลาด",
@@ -1667,7 +1697,7 @@
       "SelfAssessment": "2026-10-06"
     },
     {
-      "SnapshotRow": 167,
+      "SnapshotRow": 170,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เสลภูมิ",
@@ -1677,7 +1707,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 168,
+      "SnapshotRow": 171,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "ชื่นชม",
@@ -1687,7 +1717,7 @@
       "SelfAssessment": "2026-07-27"
     },
     {
-      "SnapshotRow": 169,
+      "SnapshotRow": 172,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1697,7 +1727,7 @@
       "SelfAssessment": "2025-12-08"
     },
     {
-      "SnapshotRow": 170,
+      "SnapshotRow": 173,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ร่องคำ",
@@ -1707,7 +1737,7 @@
       "SelfAssessment": "2026-10-16"
     },
     {
-      "SnapshotRow": 171,
+      "SnapshotRow": 174,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "ธวัชบุรี",
@@ -1717,7 +1747,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 172,
+      "SnapshotRow": 175,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "แวงใหญ่",
@@ -1727,7 +1757,7 @@
       "SelfAssessment": "2026-05-18"
     },
     {
-      "SnapshotRow": 173,
+      "SnapshotRow": 176,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -1737,7 +1767,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 174,
+      "SnapshotRow": 177,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1747,7 +1777,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 175,
+      "SnapshotRow": 178,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ฆ้องชัย",
@@ -1757,7 +1787,7 @@
       "SelfAssessment": "2026-09-23"
     },
     {
-      "SnapshotRow": 176,
+      "SnapshotRow": 179,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กุดรัง",
@@ -1767,7 +1797,7 @@
       "SelfAssessment": "2026-02-16"
     },
     {
-      "SnapshotRow": 177,
+      "SnapshotRow": 180,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1777,7 +1807,7 @@
       "SelfAssessment": "2025-12-23"
     },
     {
-      "SnapshotRow": 178,
+      "SnapshotRow": 181,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -1787,7 +1817,7 @@
       "SelfAssessment": "2026-01-15"
     },
     {
-      "SnapshotRow": 179,
+      "SnapshotRow": 182,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "สีชมพู",
@@ -1797,7 +1827,7 @@
       "SelfAssessment": "2026-09-10"
     },
     {
-      "SnapshotRow": 180,
+      "SnapshotRow": 183,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "พนมไพร",
@@ -1807,7 +1837,7 @@
       "SelfAssessment": "2026-01-05"
     },
     {
-      "SnapshotRow": 181,
+      "SnapshotRow": 184,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -1817,7 +1847,7 @@
       "SelfAssessment": "2026-01-21"
     },
     {
-      "SnapshotRow": 182,
+      "SnapshotRow": 185,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "กระนวน",
@@ -1827,7 +1857,7 @@
       "SelfAssessment": "2026-11-03"
     },
     {
-      "SnapshotRow": 183,
+      "SnapshotRow": 186,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เชียงขวัญ",
@@ -1837,7 +1867,7 @@
       "SelfAssessment": "2026-02-11"
     },
     {
-      "SnapshotRow": 184,
+      "SnapshotRow": 187,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "แวงใหญ่",
@@ -1847,7 +1877,7 @@
       "SelfAssessment": "2026-05-12"
     },
     {
-      "SnapshotRow": 185,
+      "SnapshotRow": 188,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "แวงน้อย",
@@ -1857,7 +1887,7 @@
       "SelfAssessment": "2026-11-06"
     },
     {
-      "SnapshotRow": 186,
+      "SnapshotRow": 189,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -1867,7 +1897,7 @@
       "SelfAssessment": "2025-12-08"
     },
     {
-      "SnapshotRow": 187,
+      "SnapshotRow": 190,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "พล",
@@ -1877,7 +1907,7 @@
       "SelfAssessment": "2026-10-27"
     },
     {
-      "SnapshotRow": 188,
+      "SnapshotRow": 191,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -1887,17 +1917,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 189,
-      "HealthZone": "เขตสุขภาพที่ 7",
-      "Province": "ร้อยเอ็ด",
-      "District": "เมืองร้อยเอ็ด",
-      "Subdistrict": "ในเมือง",
-      "Type": "ศูนย์ประชุม หอประชุม ห้องประชุม ศูนย์แสดงสินค้า",
-      "EvaluationResult": "ผ่าน",
-      "SelfAssessment": "2025-11-15"
-    },
-    {
-      "SnapshotRow": 190,
+      "SnapshotRow": 192,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กันทรวิชัย",
@@ -1907,7 +1927,7 @@
       "SelfAssessment": "2026-01-28"
     },
     {
-      "SnapshotRow": 191,
+      "SnapshotRow": 193,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "วาปีปทุม",
@@ -1917,7 +1937,7 @@
       "SelfAssessment": "2026-08-03"
     },
     {
-      "SnapshotRow": 192,
+      "SnapshotRow": 194,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "หนองกุงศรี",
@@ -1927,7 +1947,7 @@
       "SelfAssessment": "2026-08-13"
     },
     {
-      "SnapshotRow": 193,
+      "SnapshotRow": 195,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "คำม่วง",
@@ -1937,7 +1957,7 @@
       "SelfAssessment": "2026-10-01"
     },
     {
-      "SnapshotRow": 194,
+      "SnapshotRow": 196,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "ยางสีสุราช",
@@ -1947,7 +1967,7 @@
       "SelfAssessment": "2026-01-22"
     },
     {
-      "SnapshotRow": 195,
+      "SnapshotRow": 197,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "เมืองมหาสารคาม",
@@ -1957,7 +1977,7 @@
       "SelfAssessment": "2026-06-04"
     },
     {
-      "SnapshotRow": 196,
+      "SnapshotRow": 198,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ยางตลาด",
@@ -1967,7 +1987,7 @@
       "SelfAssessment": "2026-10-06"
     },
     {
-      "SnapshotRow": 197,
+      "SnapshotRow": 199,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ห้วยผึ้ง",
@@ -1977,7 +1997,7 @@
       "SelfAssessment": "2026-10-19"
     },
     {
-      "SnapshotRow": 198,
+      "SnapshotRow": 200,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เขาวง",
@@ -1987,7 +2007,7 @@
       "SelfAssessment": "2026-09-11"
     },
     {
-      "SnapshotRow": 199,
+      "SnapshotRow": 201,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -1997,7 +2017,7 @@
       "SelfAssessment": "2025-11-19"
     },
     {
-      "SnapshotRow": 200,
+      "SnapshotRow": 202,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -2007,7 +2027,7 @@
       "SelfAssessment": "2026-01-15"
     },
     {
-      "SnapshotRow": 201,
+      "SnapshotRow": 203,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "ชื่นชม",
@@ -2017,7 +2037,7 @@
       "SelfAssessment": "2026-01-23"
     },
     {
-      "SnapshotRow": 202,
+      "SnapshotRow": 204,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "สุวรรณภูมิ",
@@ -2027,7 +2047,7 @@
       "SelfAssessment": "2026-02-09"
     },
     {
-      "SnapshotRow": 203,
+      "SnapshotRow": 205,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -2037,7 +2057,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 204,
+      "SnapshotRow": 206,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -2047,7 +2067,7 @@
       "SelfAssessment": "2026-04-17"
     },
     {
-      "SnapshotRow": 205,
+      "SnapshotRow": 207,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "วาปีปทุม",
@@ -2057,7 +2077,7 @@
       "SelfAssessment": "2026-08-03"
     },
     {
-      "SnapshotRow": 206,
+      "SnapshotRow": 208,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ห้วยเม็ก",
@@ -2067,7 +2087,7 @@
       "SelfAssessment": "2026-10-21"
     },
     {
-      "SnapshotRow": 207,
+      "SnapshotRow": 209,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เกษตรวิสัย",
@@ -2077,7 +2097,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 208,
+      "SnapshotRow": 210,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "โพนทราย",
@@ -2087,7 +2107,7 @@
       "SelfAssessment": "2026-02-16"
     },
     {
-      "SnapshotRow": 209,
+      "SnapshotRow": 211,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ขอนแก่น",
       "District": "เมืองขอนแก่น",
@@ -2097,7 +2117,7 @@
       "SelfAssessment": "2025-12-12"
     },
     {
-      "SnapshotRow": 210,
+      "SnapshotRow": 212,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -2107,7 +2127,7 @@
       "SelfAssessment": "2026-01-15"
     },
     {
-      "SnapshotRow": 211,
+      "SnapshotRow": 213,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "เมืองกาฬสินธุ์",
@@ -2117,7 +2137,7 @@
       "SelfAssessment": "2026-09-11"
     },
     {
-      "SnapshotRow": 212,
+      "SnapshotRow": 214,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -2127,7 +2147,7 @@
       "SelfAssessment": "2026-04-08"
     },
     {
-      "SnapshotRow": 213,
+      "SnapshotRow": 215,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "กาฬสินธุ์",
       "District": "ท่าคันโท",
@@ -2137,7 +2157,7 @@
       "SelfAssessment": "2026-10-14"
     },
     {
-      "SnapshotRow": 214,
+      "SnapshotRow": 216,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "เมืองร้อยเอ็ด",
@@ -2147,7 +2167,7 @@
       "SelfAssessment": "2026-03-10"
     },
     {
-      "SnapshotRow": 215,
+      "SnapshotRow": 217,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "กุดรัง",
@@ -2157,7 +2177,7 @@
       "SelfAssessment": "2026-01-20"
     },
     {
-      "SnapshotRow": 216,
+      "SnapshotRow": 218,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "ร้อยเอ็ด",
       "District": "สุวรรณภูมิ",
@@ -2167,7 +2187,7 @@
       "SelfAssessment": "2026-02-10"
     },
     {
-      "SnapshotRow": 217,
+      "SnapshotRow": 219,
       "HealthZone": "เขตสุขภาพที่ 7",
       "Province": "มหาสารคาม",
       "District": "โกสุมพิสัย",
